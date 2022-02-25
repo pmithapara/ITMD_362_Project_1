@@ -33,3 +33,13 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
   height: 100px;
   object-fit: cover;
 }
+
+
+/* Billing page styling */
+
+.container_billing{
+  width: 700px;
+  height: 450px;
+  border: 1px solid;/*border not showing up*/
+  background-color: white;
+}
