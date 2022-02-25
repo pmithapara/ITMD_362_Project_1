@@ -7,3 +7,16 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+
+.container{
+  max-width: 1200px;
+  margin: 10;
+}
+
+.container > h1{
+  padding: 20px;
+}
+
+.cart{
+  display: flex;
+}
