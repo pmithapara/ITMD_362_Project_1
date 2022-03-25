@@ -8,7 +8,9 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Begin site styles below */
 
-.container{
+
+
+/* .container{
   max-width: 1200px;
   margin: 10;
 }
@@ -37,10 +39,10 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Billing page styling */
 
-.container_billing{
+/* .container_billing{
   width: 700px;
   height: 450px;
   border: 1
   px solid;/*border not showing up*/
-  background-color: white;
-}
+  /* background-color: white; */
+} */ */
