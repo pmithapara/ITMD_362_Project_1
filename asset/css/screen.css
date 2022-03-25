@@ -13,7 +13,6 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
   text-align: center;
 }
 
-
 h1 {
   font-size: 2em;
   margin: 0.1em;
@@ -22,6 +21,19 @@ h1 {
 h3 {
   font-size: 1em;
   margin: 0.1em;
+}
+
+.cart_page {
+  display: grid;
+  grid-template-columns: 1fr 3fr 3fr 2fr;
+  grid-template-rows: auto;
+  grid-gap: 1.285em;
+}
+
+img {
+  display: grid;
+  height: auto;
+  max-width: 100%;
 }
 
 /* .container{
