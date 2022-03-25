@@ -36,6 +36,26 @@ img {
   max-width: 100%;
 }
 
+#images {
+  grid-row: 1;
+  grid-column: 1;
+}
+
+#quantity {
+  grid-column: 2;
+  grid-row: 1;
+}
+
+#description {
+  grid-column: 3;
+  grid-row: 1;
+}
+
+#prices {
+  grid-column: 4;
+  grid-row: 1;
+}
+
 /* .container{
   max-width: 1200px;
   margin: 10;
